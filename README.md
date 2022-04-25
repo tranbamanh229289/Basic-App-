@@ -1,1 +1,1 @@
-# Framework: React-Native
+# Framework: React-Native, Redux
